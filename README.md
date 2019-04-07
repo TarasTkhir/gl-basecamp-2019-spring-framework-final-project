@@ -64,10 +64,8 @@ To run application from the command line you have to open command line, choose f
  ```
  mvn clean package
  ```
- 
- ##Endpoints
- 
- #####Application use next mappings:
+##Endpoints
+
   To see characters names that required to use and short instruction see:
   ```
   http://localhost:8080/
