@@ -1,0 +1,15 @@
+                     _______THIS IS SHORT INSTRUCTION!______
+
+/add/{name}       <---This command add character, and compare it with random character by Birth Ear
+                       (if both characters have Birth Ear), and gives you IDs.
+
+/find/{id}        <---This command finds personage by ID that was given you after /add/{name}
+
+/findAll          <---This command will find all characters from database(if there are any)
+
+/findResult/{id}  <---This command will find result of comparing your personage and
+                         random personage by ID that was given you after /add/{name}
+
+/                 <---This command gives you instruction and list of characters
+
+/findAllResults   <---This command  will find all compare results from database(if there are any)
